@@ -19,6 +19,7 @@ const styles = StyleSheet.create({
     marginRight: 5,
   },
   McapTextContainer: {
+    alignItems: "flex-end",
     marginLeft: "auto",
   },
   rank: {
